@@ -4,8 +4,8 @@
 
 # Site
 title: Ken of Blog
-subtitle: 要努力的奔跑
-description: 
+subtitle: 要努力的奔跑-- by ken
+description:
 author: ken
 language: zh-CN
 timezone:
@@ -70,8 +70,8 @@ theme: yilia       #coney
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
-deploy: 
-  type: git 
+deploy:
+  type: git
   repo: git@github.com:kennan42/hexo_static.git
   branch: master
 
