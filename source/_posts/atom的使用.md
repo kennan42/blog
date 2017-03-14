@@ -22,3 +22,4 @@ Atom是git内部使用的编辑器，现在开源了，官网地址:https://atom
 4. `atom-ternjs` JS代码智能补全
 5. `CSScomb` css美化
 6. `atom-beautify` atom美化代码，可以在保存的时候自动格式化
+7. `alt-cmd-i`  chrome调试
