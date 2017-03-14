@@ -16,10 +16,10 @@ Atom是git内部使用的编辑器，现在开源了，官网地址:https://atom
 2.在packages中搜索"tree-view" 在其设置中，勾选 Hide Ignored Names
 
 这里列出几种常用插件：
-1. `color-picker `         取色器      快捷键：cmd+shift+c
-2. `RIB - run in browser`  浏览器预览   快捷键：ctrl+alt +r
-3. `git-plus`   git的快捷键: Cmd-Shift-H
-4. `atom-ternjs` JS代码智能补全
-5. `CSScomb` css美化
-6. `atom-beautify` atom美化代码，可以在保存的时候自动格式化
-7. `alt-cmd-i`  chrome调试
+`color-picker `        : 取色器      快捷键：cmd+shift+c
+`RIB - run in browser`:  浏览器预览   快捷键：ctrl+alt +r
+`git-plus`   :git的快捷键: Cmd-Shift-H
+`atom-ternjs`: JS代码智能补全
+`CSScomb` :css美化
+`atom-beautify`: atom美化代码，可以在保存的时候自动格式化
+`alt-cmd-i`  :chrome调试
