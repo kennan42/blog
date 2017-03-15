@@ -6,7 +6,7 @@ tags:
        - nodejs
 comments: true
 ---
-![](http://ken-blog.image.alimmdn.com/test/nodejs.jpeg)
+![](http://ken-blog.image.alimmdn.com/test/nodejs.jpeg@200h)
 <!-- more-->
 ##### 安装
 我的系统是centos，以centos为例：
